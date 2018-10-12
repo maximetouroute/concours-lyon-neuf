@@ -1,7 +1,7 @@
 {
   "main.css": "/concoursArtisteAmateur/static/css/main.bc2b2d87.chunk.css",
-  "main.js": "/concoursArtisteAmateur/static/js/main.84003f21.chunk.js",
-  "main.js.map": "/concoursArtisteAmateur/static/js/main.84003f21.chunk.js.map",
+  "main.js": "/concoursArtisteAmateur/static/js/main.93cb95d0.chunk.js",
+  "main.js.map": "/concoursArtisteAmateur/static/js/main.93cb95d0.chunk.js.map",
   "static/js/1.54e3afdd.chunk.js": "/concoursArtisteAmateur/static/js/1.54e3afdd.chunk.js",
   "static/js/1.54e3afdd.chunk.js.map": "/concoursArtisteAmateur/static/js/1.54e3afdd.chunk.js.map",
   "runtime~main.js": "/concoursArtisteAmateur/static/js/runtime~main.d9460548.js",
@@ -19,6 +19,6 @@
   "static/media/DVI2_EDITSINGLE.mp4": "/concoursArtisteAmateur/static/media/DVI2_EDITSINGLE.a59726b3.mp4",
   "static/css/main.bc2b2d87.chunk.css.map": "/concoursArtisteAmateur/static/css/main.bc2b2d87.chunk.css.map",
   "index.html": "/concoursArtisteAmateur/index.html",
-  "precache-manifest.b3212aea32f7cb53262a1b086cea3f5e.js": "/concoursArtisteAmateur/precache-manifest.b3212aea32f7cb53262a1b086cea3f5e.js",
+  "precache-manifest.3cb309a7428cb00112a2e1b718f4d6d0.js": "/concoursArtisteAmateur/precache-manifest.3cb309a7428cb00112a2e1b718f4d6d0.js",
   "service-worker.js": "/concoursArtisteAmateur/service-worker.js"
 }

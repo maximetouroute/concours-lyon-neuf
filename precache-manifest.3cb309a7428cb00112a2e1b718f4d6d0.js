@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/concoursArtisteAmateur/static/media/CRO3_EDITSINGLE.ade1015e.mp4"
   },
   {
-    "revision": "84003f2150485870e832",
+    "revision": "93cb95d03e66170b28b0",
     "url": "/concoursArtisteAmateur/static/css/main.bc2b2d87.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/concoursArtisteAmateur/static/media/SPHA1_EDITSINGLE.c3b1e987.mp4"
   },
   {
-    "revision": "84003f2150485870e832",
-    "url": "/concoursArtisteAmateur/static/js/main.84003f21.chunk.js"
+    "revision": "93cb95d03e66170b28b0",
+    "url": "/concoursArtisteAmateur/static/js/main.93cb95d0.chunk.js"
   },
   {
     "revision": "437f308d2f3a78f5052bd100f1fb36ee",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/concoursArtisteAmateur/static/media/arrow-right.86863924.svg"
   },
   {
-    "revision": "e7d8c3875533f4d1c2fe248d8f8da449",
+    "revision": "58fa021afc63147dafaab5306f0ad771",
     "url": "/concoursArtisteAmateur/index.html"
   }
 ];

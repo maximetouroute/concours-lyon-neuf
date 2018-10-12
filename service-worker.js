@@ -15,7 +15,7 @@ importScripts("/concoursArtisteAmateur/workbox-v3.6.2/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/concoursArtisteAmateur/workbox-v3.6.2"});
 
 importScripts(
-  "/concoursArtisteAmateur/precache-manifest.b3212aea32f7cb53262a1b086cea3f5e.js"
+  "/concoursArtisteAmateur/precache-manifest.3cb309a7428cb00112a2e1b718f4d6d0.js"
 );
 
 workbox.clientsClaim();
