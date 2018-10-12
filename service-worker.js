@@ -11,11 +11,11 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("/humanlapse/workbox-v3.6.2/workbox-sw.js");
-workbox.setConfig({modulePathPrefix: "/humanlapse/workbox-v3.6.2"});
+importScripts("/concoursArtisteAmateur/workbox-v3.6.2/workbox-sw.js");
+workbox.setConfig({modulePathPrefix: "/concoursArtisteAmateur/workbox-v3.6.2"});
 
 importScripts(
-  "/humanlapse/precache-manifest.e099165c552867a01ea4d8a5888f6632.js"
+  "/concoursArtisteAmateur/precache-manifest.b3212aea32f7cb53262a1b086cea3f5e.js"
 );
 
 workbox.clientsClaim();
@@ -29,7 +29,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/humanlapse/index.html", {
+workbox.routing.registerNavigationRoute("/concoursArtisteAmateur/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
